@@ -1,0 +1,31 @@
+/*
+Doing some CSS Basic Examples
+*/
+
+/*Lets make h1's red*/
+h1 {
+    color: red;/*also can do hexidecimal format #RRGGBB, color: #FF0000*/
+}
+
+/*How about paragraphs under h1's can have a text size of 24px*/
+h1 p {
+    font-size: 24px;
+}
+
+/*Class called test. Any element that has a class assignment to "test" will have a background color
+of blue, Specifically #0243ff.
+*/
+.test {
+    background-color: #0243ff;
+}
+
+/*Can also specify element by ids*/
+#123 {
+    /*Something not too crazy*/
+    font-family:'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+}
+
+/*Let's change how the cursor looks when we go over a "pointer" element*/
+.pointer {
+    cursor: pointer;
+}
