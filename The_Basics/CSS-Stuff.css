@@ -2,13 +2,14 @@
 Doing some CSS Basic Examples
 */
 
-/*Lets make h1's red*/
+/*Lets make h1's red and in the center of the page*/
 h1 {
+    text-align: center;
     color: red;/*also can do hexidecimal format #RRGGBB, color: #FF0000*/
 }
 
-/*How about paragraphs under h1's can have a text size of 24px*/
-h1 p {
+/*How about paragraphs under articles can have a text size of 24px*/
+article p {
     font-size: 24px;
 }
 
@@ -28,4 +29,18 @@ of blue, Specifically #0243ff.
 /*Let's change how the cursor looks when we go over a "pointer" element*/
 .pointer {
     cursor: pointer;
+}
+
+/*Text under the footer section should be white*/
+section p {
+    color: white;
+}
+
+section {
+    background-color: black;
+}
+
+#txt {
+    color:rgba(0, 255, 0, 0.767);
+    text-align: center;
 }
