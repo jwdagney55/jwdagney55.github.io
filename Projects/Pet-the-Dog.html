@@ -1,0 +1,32 @@
+<!DOCTYPE html>
+<html>
+    <head>
+        <title>Petting Dog Project</title>
+        <style>
+            .grab {cursor: grab;}
+            #dog {width: 25%;}
+        </style>
+        <script>
+            function morePets(){
+                console.log("Hello World")
+                let petCount = document.querySelector("#petCounter").innerText;
+                console.log(petCount)
+                petCount = parseInt(petCount);
+                document.querySelector("#petCounter").innerText = petCount + 1;
+            }
+        </script>
+    </head>
+    <body>
+        <h1>My Dog Juno :)</h1>
+        <div>
+            <p>She loves getting pets, so move your cursor around the image and it will change to sort of
+            a petting icon.</p>
+            <img class="grab" id="dog" src="images/Puppy.jpg" onclick="morePets()">
+            <p>Number of times pet: <span id="petCounter">0</span></p>
+        </div>
+        <div>
+            <button onclick="morePets()">Do a pet</button>
+        </div>
+
+    </body>
+</html>
