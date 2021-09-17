@@ -10,7 +10,7 @@ Email: <jwdagney@udel.edu>
 - Read through [htmldog](https://htmldog.com/guides/javascript/) javascript beginner and intermediate lessons. Notes are [here](https://github.com/jwdagney55/jwdagney55.github.io/blob/main/The_Basics/JavaScript.txt).
 
 ######################################################################
-
+### Portfolio Milestone 1
 - Week of Aug. 30 began marksheet.io and runestone.academy lessons on html and css. I used these lessons to create html and css "cheat sheets." These are located in this repository under [The_Basics](https://github.com/jwdagney55/jwdagney55.github.io/tree/main/The_Basics)
 - Tutorial from FreeCodeAcademy. Beginning the Responsive Web Design course, and completed the First section on html. Repository is located [here](https://github.com/jwdagney55/CISC275-Tutorials)
 - Sept. 9 created "interactive" html + javascript website around my dog called "Pet-the-Dog.html". Can "pet" the dog by clicking and update the pet counter. The location is within this [repository](https://github.com/jwdagney55/jwdagney55.github.io/tree/main/Projects), as I am keeping small scale projects local to this repository.
@@ -25,6 +25,7 @@ Email: <jwdagney@udel.edu>
 
 ######################################################################
 
+### Portfolio Milestone 1
 - Add css to "Pet-the-Dog.html" project
 - Develop javascript skills for initial use in "Pet-the-Dog.html"
 - Learn and practice React skills through lessons/tutorials
