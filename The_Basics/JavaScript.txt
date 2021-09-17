@@ -1,0 +1,15 @@
+JavaScript HTMLDog Tutorial/Lessons
+
+The basics follow as most programming languages do. However, this programming language can be used in web development!!
+Don't like inline JS, so make a .js file if you're gonna do it.
+The Document Object Module is how you can interact with the web page. document.getElement...()
+A lot of code is event driven, so listen for an event and use a callback function. Is this what React is doing with useState() or is that different?
+JSON is how we pass around data through different web pages, computers, servers, clients.
+	- stringify convert to JSON
+	- parse convert from JSON
+	
+Interesting scope implementation. If a function is a child of another function, that child function has access to the parent function's variables
+
+Beginning JQuery with $ syntax, need to read more on this. Syntax looks like latex or anything where you put mathematics in.
+
+--Read advanced JS
