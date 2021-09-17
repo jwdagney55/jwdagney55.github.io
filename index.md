@@ -8,7 +8,6 @@ Email: <jwdagney@udel.edu>
 ### Portfolio Milestone 2
 - Watched video tutorial on [Creating a Flip Card with Animation](https://www.youtube.com/watch?v=qrZFo1jLG-4). This led into creating a basic match game in React with TypeScript. Code is housed in this [repository](https://github.com/jwdagney55/react-match-game).
 - Read through [htmldog](https://htmldog.com/guides/javascript/) javascript beginner and intermediate lessons. Notes are [here](https://github.com/jwdagney55/jwdagney55.github.io/blob/main/The_Basics/JavaScript.txt).
-- 
 ######################################################################
 
 - Week of Aug. 30 began marksheet.io and runestone.academy lessons on html and css. I used these lessons to create html and css "cheat sheets." These are located in this repository under [The_Basics](https://github.com/jwdagney55/jwdagney55.github.io/tree/main/The_Basics)
