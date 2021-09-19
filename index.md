@@ -13,7 +13,7 @@ Email: <jwdagney@udel.edu>
 ### Portfolio Milestone 1
 - Week of Aug. 30 began marksheet.io and runestone.academy lessons on html and css. I used these lessons to create html and css "cheat sheets." These are located in this repository under [The_Basics](https://github.com/jwdagney55/jwdagney55.github.io/tree/main/The_Basics) ([HTML Cheat Sheet](https://github.com/jwdagney55/jwdagney55.github.io/blob/main/The_Basics/HTML-CheatSheet.html) [CSS Cheat Sheet](https://github.com/jwdagney55/jwdagney55.github.io/blob/main/The_Basics/CSS_TestSite.html))
 - Tutorial from FreeCodeAcademy. Beginning the Responsive Web Design course, and completed the First section on html. Repository is located [here](https://github.com/jwdagney55/CISC275-Tutorials)
-- Sept. 9 created "interactive" html + javascript website around my dog called "Pet-the-Dog.html". Can "pet" the dog by clicking and update the pet counter. The location is within this [repository](https://github.com/jwdagney55/jwdagney55.github.io/tree/main/Projects), as I am keeping small scale projects local to this repository.
+- Sept. 9 created "interactive" html + javascript website around my dog called "Pet-the-Dog.html". Can "pet" the dog by clicking and update the pet counter. The location is within this [repository](https://github.com/jwdagney55/jwdagney55.github.io/tree/main/Projects), as I am keeping small scale projects local to this repository. Here is the [website](https://github.com/jwdagney55/jwdagney55.github.io/blob/main/Projects/Pet-the-Dog.html).
 
 ## To Do
 ### Portfolio Milestone 2
