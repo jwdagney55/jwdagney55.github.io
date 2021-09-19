@@ -6,12 +6,12 @@ Email: <jwdagney@udel.edu>
 
 ## Change Log
 ### Portfolio Milestone 2
-- Watched video tutorial on [Creating a Flip Card with Animation](https://www.youtube.com/watch?v=qrZFo1jLG-4). This led into creating a basic match game in React with TypeScript. Code is housed in this [repository](https://github.com/jwdagney55/react-match-game).
+- Watched video tutorial on [Creating a Flip Card with Animation](https://www.youtube.com/watch?v=qrZFo1jLG-4). This led into creating a basic match game in React with TypeScript. Code is housed in this [repository](https://github.com/jwdagney55/react-match-game). I have not configured yarn yet for React to work with github pages. The file which is the website, however is: [https://github.com/jwdagney55/react-match-game/blob/main/src/index.tsx](https://github.com/jwdagney55/react-match-game/blob/main/src/index.tsx)
 - Read through [htmldog](https://htmldog.com/guides/javascript/) javascript beginner and intermediate lessons. Notes are [here](https://github.com/jwdagney55/jwdagney55.github.io/blob/main/The_Basics/JavaScript.txt).
 
 ######################################################################
 ### Portfolio Milestone 1
-- Week of Aug. 30 began marksheet.io and runestone.academy lessons on html and css. I used these lessons to create html and css "cheat sheets." These are located in this repository under [The_Basics](https://github.com/jwdagney55/jwdagney55.github.io/tree/main/The_Basics)
+- Week of Aug. 30 began marksheet.io and runestone.academy lessons on html and css. I used these lessons to create html and css "cheat sheets." These are located in this repository under [The_Basics](https://github.com/jwdagney55/jwdagney55.github.io/tree/main/The_Basics) ([HTML Cheat Sheet](https://github.com/jwdagney55/jwdagney55.github.io/blob/main/The_Basics/HTML-CheatSheet.html) [CSS Cheat Sheet](https://github.com/jwdagney55/jwdagney55.github.io/blob/main/The_Basics/CSS_TestSite.html))
 - Tutorial from FreeCodeAcademy. Beginning the Responsive Web Design course, and completed the First section on html. Repository is located [here](https://github.com/jwdagney55/CISC275-Tutorials)
 - Sept. 9 created "interactive" html + javascript website around my dog called "Pet-the-Dog.html". Can "pet" the dog by clicking and update the pet counter. The location is within this [repository](https://github.com/jwdagney55/jwdagney55.github.io/tree/main/Projects), as I am keeping small scale projects local to this repository.
 
