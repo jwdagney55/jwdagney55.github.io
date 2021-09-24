@@ -19,6 +19,7 @@ Email: <jwdagney@udel.edu>
 - Read through [htmldog](https://htmldog.com/guides/javascript/) javascript beginner and intermediate lessons. Notes are [here](https://github.com/jwdagney55/jwdagney55.github.io/blob/main/The_Basics/JavaScript.txt).
 
 ######################################################################
+
 ### Portfolio Milestone 1
 - Week of Aug. 30 began marksheet.io and runestone.academy lessons on html and css. I used these lessons to create html and css "cheat sheets." These are located in this repository under [The_Basics](https://github.com/jwdagney55/jwdagney55.github.io/tree/main/The_Basics) ([HTML Cheat Sheet](https://github.com/jwdagney55/jwdagney55.github.io/blob/main/The_Basics/HTML-CheatSheet.html) [CSS Cheat Sheet](https://github.com/jwdagney55/jwdagney55.github.io/blob/main/The_Basics/CSS_TestSite.html))
 - Tutorial from FreeCodeAcademy. Beginning the Responsive Web Design course, and completed the First section on html. Repository is located [here](https://github.com/jwdagney55/CISC275-Tutorials)
@@ -31,7 +32,7 @@ Email: <jwdagney@udel.edu>
 - Create tests for Match Game using Jest.
 - Watch Jest intro video, possibly [Jest Crash Course - Unit Testing in JavaScript](https://www.youtube.com/watch?v=7r4xVDI2vho).
 
-########################################################################
+######################################################################
 
 ### Portfolio Milestone 2
 - Figure out how to put images (.jpg and .png) into a react project!
