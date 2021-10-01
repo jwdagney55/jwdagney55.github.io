@@ -5,6 +5,9 @@ Email: <jwdagney@udel.edu>
 [github Repository](https://github.com/jwdagney55/jwdagney55.github.io)
 
 ## Change Log
+### Portfolio Submission
+- Main project is the React Application ["Match Game"](https://jwdagney55.github.io/react-match-game/) (will take you to the website). [Here](https://github.com/jwdagney55/react-match-game) is the repository. Using useState, I keep track of the flip state of the list of cards in the Game, and use this to determine if the player has found a match, or if I should flip the cards back over if they have not found a match. When the match is found, the ScoreCard component is updated to show the new value of the score. Future implementation with the Bootstrap Check Boxes will allow the user to select which cards they want to play with. Note the cards are custom made.
+
 ### Portfolio Milestone 3
 - Watched Dr. Bart's YouTube video ([link](https://www.youtube.com/watch?v=q8eYF6cUi5c)) on creating a React App TA Trainer. Forked his repository and made minimal tests in my own [repository](https://github.com/jwdagney55/ta-trainer). GitHub pages is not currently working with this repo.
 - Created randomization of cards in Match Game. Repository can be found [here](https://github.com/jwdagney55/react-match-game). Though the first line in the commit messages says
